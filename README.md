@@ -15,3 +15,4 @@ video:
 - [OVER 100% EFFICIENCY! - Plastic to Fuel: Large Batches in the Reactor](https://youtu.be/vP_PVq9Uvx0)
 - [Using A Turbo Barrel For Pyrolosis](https://youtu.be/WhaVfAu288s?list=PLJ1IAeg4485Euf5kg2copgnp0FGahTUJO)
 - [THIS SELF SUFFICIENT FAMILY MAKES THEIR OWN FUEL FROM PLASTIC!](https://youtu.be/TFuTCpCVSbM)
+- [Plastic to Fuel | Turning Recycled Plastic to Fuel Like Petrol | How to make Plastic to Petrol](https://youtu.be/XmjdJzL96xg)
