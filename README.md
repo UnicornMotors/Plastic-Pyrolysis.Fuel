@@ -5,6 +5,8 @@
 - [THIS SELF SUFFICIENT FAMILY MAKES THEIR OWN FUEL FROM PLASTIC!](https://youtu.be/TFuTCpCVSbM)
 
 # Favorite:
+- [How Waste Plastic is Converted into Fuel](https://youtu.be/e5EEAH773uw)
+
 ## channel: NatureJab
 Home: https://www.youtube.com/@naturejab
 
