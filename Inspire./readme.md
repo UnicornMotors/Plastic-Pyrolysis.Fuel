@@ -9,3 +9,6 @@ home: https://www.youtube.com/@naturejab
 # by: synergyfiles3536
 home: https://www.youtube.com/@synergyfiles3536
 - [Making Waste Plastic to Fuel (Diesel and Petrol)](https://youtu.be/9MA21ofCYis)
+
+# index:
+- [How to get diesel from waste plastic - Bang Goes the Theory - Series 7 - BBC](https://youtu.be/njIYHtFmcSs)
